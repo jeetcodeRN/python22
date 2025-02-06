@@ -3,7 +3,7 @@
 This repository contains small Python programs that reflect my self-learning journey. Each script is designed to showcase my understanding of different Python concepts, including basic syntax, data structures, and algorithms. The programs are based on my experiences and interests, helping me strengthen my programming skills
 
 
-##Features
+# Features
 
 Simple scripts demonstrating Python fundamentals
 
@@ -14,11 +14,11 @@ Basic algorithm implementations
 Small projects based on personal experiences
 
 
-##Motivation
+# Motivation
 
 I started learning Python to improve my programming skills and transition into a tech career. This repository serves as a record of my progress and a way to practice coding consistently.
 
-##Prerequisites
+# Prerequisites
 
 Python 3.x installed on your system
 
@@ -30,14 +30,14 @@ Implementing small AI/ML-based experiments
 
 Developing interactive applications
 
-## Contributing
+# Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
+# License
 
 [MIT](https://choosealicense.com/licenses/mit/
 
